@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PercentView">
+        <attr name="hint" format="string"/>
+        <attr name="showHint" format="boolean"/>
+        <attr name="heightPercent" format="dimension"/>
+        <attr name="hideInputPercent" format="boolean"/>
+        <attr name="percent" format="integer"/>
+    </declare-styleable>
+</resources>
