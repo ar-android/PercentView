@@ -3,6 +3,8 @@ Simple percent view android library
 
 ![alt tag](https://github.com/ar-android/PercentView/raw/master/sample.png)
 
+![alt tag](https://github.com/ar-android/PercentView/raw/master/screen_shoot.png)
+
 This is an Android project allowing to realize a PercentView instead of LinearLayout in the simplest way possible.
 
 #Usage
