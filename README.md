@@ -7,15 +7,15 @@ This is an Android project allowing to realize a PercentView instead of LinearLa
 To make a PercentView add in your layout XML and add PercentView library in your project or you can also grab it via Gradle:
 
 Add it in your root build.gradle at the end of repositories:
-```
+```gradle
 allprojects {
-		repositories {
-			maven { url "https://jitpack.io" }
-		}
+   repositories {
+	maven { url "https://jitpack.io" }
+   }
 }
 ```
 Add dependencies :
-```
+```gradle
 dependencies {
 	 compile 'com.github.ar-android:PercentView:1.0'
 }
